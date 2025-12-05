@@ -1,3 +1,4 @@
+package unrelatedtoProject;
 abstract class LibraryUser {
     protected String name;
 
